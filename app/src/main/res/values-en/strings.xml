@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Languages</string>
+    <string name="btn_ok">ok</string>
+    <string name="hello_world">Hello world</string>
+
+    <string-array name="lang">
+        <item>Ру</item>
+        <item>En</item>
+    </string-array>
+</resources>
+
+
